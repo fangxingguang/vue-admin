@@ -1,0 +1,9 @@
+/* 覆盖element ui 默认样式 */
+
+.el-button {
+    border-radius: 0;
+}
+
+.el-dropdown{
+    color: #bfcbd9;
+}
